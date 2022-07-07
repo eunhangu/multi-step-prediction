@@ -1,4 +1,4 @@
-# multi-step-prediction
+# Multi-Step Prediction
 
 multi-step prediction with LSTM(Long Short-Term Memory)
 
@@ -7,3 +7,5 @@ multi-step prediction with LSTM(Long Short-Term Memory)
 **SingleStepPrediction.ipynb** : single step prediction with nn.LSTM module
 
 **MultiStepPrediction.ipynb** : multi step prediction with nn.LSTM module
+
+![msp_scheme](./msp.png)
