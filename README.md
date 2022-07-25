@@ -1,11 +1,11 @@
-# Multi-Step Prediction
+# Multi-Step Prediction (MSP)
 
-multi-step prediction with LSTM(Long Short-Term Memory)
+**Dataset**
 
-**data.txt** : 728 x 8 dataset (4 columns for train data, 4 columns for test data)
+- train1.txt
+- train2.txt
+- test.txt
 
-**SingleStepPrediction.ipynb** : single step prediction with nn.LSTM / Custom LSTM module
+**Model**
 
-**MultiStepPrediction.ipynb** : multi step prediction with nn.LSTM / Custom LSTM module
-
-![msp_scheme](./msp.png)
+- time_series_forecasting.ipynb : MSP with LSTM
